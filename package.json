@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "vite-project",
+=======
+  "name": "reactui",
+>>>>>>> f43d1ad558962532cb6ae53b0abd24890f71966e
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +15,12 @@
   },
   "dependencies": {
     "react": "^18.2.0",
+<<<<<<< HEAD
     "react-dom": "^18.2.0"
+=======
+    "react-dom": "^18.2.0",
+    "storybook": "^8.0.4"
+>>>>>>> f43d1ad558962532cb6ae53b0abd24890f71966e
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
