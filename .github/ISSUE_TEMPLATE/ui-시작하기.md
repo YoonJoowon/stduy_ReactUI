@@ -11,7 +11,6 @@ assignees: Sleepingoff
 - UI 이름
 [이미지]
 
-
 ### 주로 어디에, 왜 쓰이나요?
 관련 예시에 대한 분석
 
